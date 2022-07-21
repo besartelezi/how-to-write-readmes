@@ -1,6 +1,6 @@
 # How to write a README
 ##### A README by Besart Elezi, licensed doctor/professor in READMEIOLOGY at the Institute of Becode
-###### Authenticity of the license in question is still under investigation.
+###### Authenticity of the license in question is still under investigation
 
 After getting a lot of praise for the way I write my READMES, I thought some people might like it if I could give a little insight on the way I write them.
 For that I have made both a presentation, which you can find [here](https://www.youtube.com/watch?v=W8MbyfCrrWQ), and a README, which in case you haven't noticed, you are reading right now!
@@ -10,25 +10,20 @@ These are the following topics that I will discuss:
 * Lesson 1: Why should I give a heck about READMES?
 * Lesson 2: Storytelling, have some fun with it
 * Lesson 3: Introductory lesson to Introductions
-* Lesson 4: The First Step
+* Lesson 4: The (second) First Step
 * Lesson 5: Significance of To-Do's
 * Lesson 6: Titles
 * Lesson 7: In the Middle but I can't find Malcolm - Middle Parts of your README
-
 * Lesson 8: Finally, The Final Finale
-  * How to end your README
-    * Short Summary
-    * Final Thoughts
-    * What did I learn?
-    * What was something that stood out in this project
-    * What am I proud of?
 
 ---
 
 ## Lesson 1: Why should I give a heck about READMES?
 There are quite a few advantages to spend some of your time on writing a README instead of coding.
-But to me, the biggest advantage is definitely that coding just goes way, WAY smoother when you also have a clear and concise README.
-I believe that people learn by repetition.
+To me personally, the biggest advantage is definitely that coding just goes way, WAY smoother when you also have a clear and concise README.
+You can add TO-DO lists, write out your current thoughts, and analyse better what's going wrong with your code.
+
+I also believe that people learn by repetition.
 So if you learned something new on a project that you're working on, you might want to write that in your README.
 The process of putting the newly learned stuff into words, to break it down into small steps, really helps you understand it better on a more fundamental level.
 
@@ -76,7 +71,7 @@ The purpose of an introduction is to explain to the reader what the heck is goin
 After they read the introduction, they need to understand what the project is and they need to be able to follow along the rest of the README.
 
 ## Lesson 4: The (second) First Step
-This step is an optional one, according to the project.
+This step is an optional one, depending on what type of project you're working on.
 Because once you're done with writing the intro, it's time do some research on the topic of your project.
 I'd like to explain this step by using an example.
 In the past, I created a blackjack game on Javascript.
@@ -87,8 +82,7 @@ Then I spent the next 15-20 minutes just playing blackjack online, while keeping
 And I can say with absolute certainty that if I didn't do the research at the very start I would've not been able to finish this assignment in time.
 Having everything written down, as clear as possible, in my own words, made me understand the game 100%.
 Once I know the rules of the game, I also know how to program those rules.
-Like I mentioned earlier, most of the work for a project is done in the planning, and that's done in the README!
-
+Most of the work for a project is done in the planning, and that's done in the README!
 
 ## Lesson 5: Significance of To-Do's
 To-Do lists are the bread and butter of my READMES.
@@ -117,7 +111,7 @@ Make it yourself as easy as possible, split up big scary projects into very smal
 Not only does it make coding for yourself easier, this also comes in handy when working in groups.
 When everyone has their own small goals, it's easier to communicate what exactly needs to happen.
 
-Splitting up a big scary project into small attainable goals is skill that is very essential to developers.
+Splitting up a big scary project into small attainable goals is a skill that is very essential to developers.
 
 ![drake-meme](images/drake-to-do-list.png)
 
@@ -133,7 +127,7 @@ Here are some Besart-Cerficied tips to make some funny titles (9/10 times I use 
   * Oh you're working on PHP? **OR** are you working on a Pretty Huge Problem?
 * Don't overthink!
   * If you can't come up with anything funny, that's okay too.
-  Sometimes the very first thought that comes up to you while thinking of a title works just perfectly
+  Sometimes the very first thought that comes up to you while thinking of a title works just perfectly.
 
 Here I have used some very refined technology to recreate what goes on in the inner machinations of a readers mind when seeing a funny title.
 
@@ -162,7 +156,7 @@ And you can't learn by doing nothing, you learn by making a lot of mistakes.
 
 ### General Writing Tips
 The most important tip is that you need a nice layout and good structure.
-Developers are lazy people, we want to find the information we want as fast as possible.
+Developers are lazy people, we want to find the information we need as fast as possible.
 A good structure helps with that.
 This means adding clear titles and having only the necessary text present in that segment about that subject.
 
