@@ -11,8 +11,6 @@ These are the following topics that I will discuss:
 * Lesson 2: Storytelling, have some fun with it
 * Lesson 3: Introductory lesson to Introductions
 * Lesson 4: The First Step
-* Do I need to do some research about the Topic?
-  * Example Blackjack
 * Lesson 5: Significance of To-Do's
 * Lesson 6: Titles
   * Just puns honestly
@@ -95,3 +93,36 @@ Having everything written down, as clear as possible, in my own words, made me u
 Once I know the rules of the game, I also know how to program those rules.
 Like I mentioned earlier, most of the work for a project is done in the planning, and that's done in the README!
 
+
+## Lesson 5: Significance of To-Do's
+To-Do lists are the bread and butter of my READMES.
+I would not be able to function as a developer (or a human being) without them.
+Now I know what you're thinking: "Surely you can't be serious, TO-DO lists aren't **that** important".
+And to that I have but one thing to say:
+
+![dont call me shirley](images/dont-call-me-shirley-shirley.gif)
+
+Coding can get extremely overwhelming and complex.
+This is especially true for big projects and group projects.
+I will now present you with two TWO-DO lists (not a typo but a pun) and you will decide which one you'd rather clear.
+
+### TO-DO 1:
+- [ ] Create a high-end website containing multiple minigames made on Javascript
+
+### TO-DO 2:
+- [x] Add an HTML, CSS, and JS file
+  - [x] Maybe even create multiple HTML files according to what minigame user wants to play
+- [x] Add two buttons to HTML
+- [ ] Add an input field for user
+- [ ] ...
+
+As you can see, the second list is less intimidating and more clear on what needs to happen.
+Make it yourself as easy as possible, split up big scary projects into very small and very attainable goals.
+Not only does it make coding for yourself easier, this also comes in handy when working in groups.
+When everyone has their own small goals, it's easier to communicate what exactly needs to happen.
+
+Splitting up a big scary project into small attainable is skill that is very essential to developers.
+
+![drake-meme](images/drake-to-do-list.png)
+
+## Lesson 6: Titles
