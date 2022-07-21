@@ -117,7 +117,7 @@ Make it yourself as easy as possible, split up big scary projects into very smal
 Not only does it make coding for yourself easier, this also comes in handy when working in groups.
 When everyone has their own small goals, it's easier to communicate what exactly needs to happen.
 
-Splitting up a big scary project into small attainable is skill that is very essential to developers.
+Splitting up a big scary project into small attainable goals is skill that is very essential to developers.
 
 ![drake-meme](images/drake-to-do-list.png)
 
@@ -126,7 +126,7 @@ Titles gotta do what titles gotta do.
 And that's to perfectly represent what goes on in that segment of text.
 It makes the entire README more structured, less exhausting to read through, and when someone needs to find a specific piece on information, they can find it way faster!
 
-And if you can mak a funny title, that's even better!
+And if you can make a funny title, that's even better!
 Here are some Besart-Cerficied tips to make some funny titles (9/10 times I use these):
 * Add a pun in the title, gets 'em every time
 * Make up your own acronyms
@@ -176,3 +176,23 @@ Using words like "first, then, afterwards, ..." to describe what you were doing 
 
 Another fun thing to know, is that some IDE's have a built-in spelling checker.
 You can use this to your advantage to make sure there are no spelling errors in your README.
+
+Since READMES are generally made in markdown, make sure to visit [this repository](https://github.com/Hub-Mo/MDcheatsheet), where you can find a handy markdown cheatsheet.
+Mastering markdown to make your README look as spicy as possible is also a fine way to go!
+
+## Lesson 8: Finally, The Final Finale
+And now, here are some guidelines on how to end your README.
+I like to start out by giving a very short summary.
+"Some stuff happened, the code made me cry, the crying taught me that it's important to accept your emotions so this experience made me a better human being", or something like that.
+Just summarize everything in the simplest way possible, by this point your reader should understand everything regarding the project.
+
+Some things that are also worth writing in the final segment of your README are:
+* What did I learn?
+* What was something that stood out in this project
+* What am I proud of?
+
+And once that's done, you can git add, git commit, and git push that README straight into the eye-sockets of those lucky enough to read it.
+
+###### And one more last tip, it's always fun to end things with a funny gif/meme!
+
+![alt-text](images/the-inner-workings-of-my-mind-are-an-enigma-patrick.gif)
