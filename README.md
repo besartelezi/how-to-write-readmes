@@ -13,11 +13,8 @@ These are the following topics that I will discuss:
 * Lesson 4: The First Step
 * Lesson 5: Significance of To-Do's
 * Lesson 6: Titles
-
 * Lesson 7: In the Middle but I can't find Malcolm - Middle Parts of your README
-  * What subjects should you write about
-  * Some general writing tips
-  * 
+
 * Lesson 8: Finally, The Final Finale
   * How to end your README
     * Short Summary
@@ -141,3 +138,41 @@ Here are some Besart-Cerficied tips to make some funny titles (9/10 times I use 
 Here I have used some very refined technology to recreate what goes on in the inner machinations of a readers mind when seeing a funny title.
 
 ![monkey-neuron-activation](images/monkey-see-action.jpg)
+
+## Lesson 7: In the Middle but I can't find Malcolm - Middle Parts of your README
+This lesson will be split up into two parts: 'What subjects should you write about' and 'Some general writing tips'.
+
+### Subject Matter - What should I write about?
+I'll start out by giving out a tip that's very dear to me: "When in doubt, write it out!".
+This means that whenever you're stuck, you don't know what to do next or you're not sure what's going wrong with your code, you just write everything out.
+When you've written everything out, you get a clearer understanding of all the steps you took until that point.
+So the next step you should take becomes more clear.
+
+The most basic subjects you should write about are the following:
+* What went wrong, and how did I solve it
+* What are you working on and how do you plan to tackle any issues
+* What's a feature or a piece of code you're proud of
+* What are some fun features I'd like to add, if I have enough time
+* And much more!
+
+In general, you can never run out of things to write in your README.
+Even if you're unsure if what you're writing is "good" or "necessary", ya just gotta write it anyway.
+Just like coding, writing READMES is a learning experience.
+And you can't learn by doing nothing, you learn by making a lot of mistakes.
+
+### General Writing Tips
+The most important tip is that you need a nice layout and good structure.
+Developers are lazy people, we want to find the information we want as fast as possible.
+A good structure helps with that.
+This means adding clear titles and having only the necessary text present in that segment about that subject.
+
+Another tip is to also switch up the way you start sentences.
+If every sentence starts the same it can get boring and repetitive quickly.
+* "I did this..."
+* "I did that..."
+* "I did another thing..."
+
+Using words like "first, then, afterwards, ..." to describe what you were doing is the way to go.
+
+Another fun thing to know, is that some IDE's have a built-in spelling checker.
+You can use this to your advantage to make sure there are no spelling errors in your README.
