@@ -13,8 +13,7 @@ These are the following topics that I will discuss:
 * Lesson 4: The First Step
 * Lesson 5: Significance of To-Do's
 * Lesson 6: Titles
-  * Just puns honestly
-  * Acronyms
+
 * Lesson 7: In the Middle but I can't find Malcolm - Middle Parts of your README
   * What subjects should you write about
   * Some general writing tips
@@ -126,3 +125,19 @@ Splitting up a big scary project into small attainable is skill that is very ess
 ![drake-meme](images/drake-to-do-list.png)
 
 ## Lesson 6: Titles
+Titles gotta do what titles gotta do.
+And that's to perfectly represent what goes on in that segment of text.
+It makes the entire README more structured, less exhausting to read through, and when someone needs to find a specific piece on information, they can find it way faster!
+
+And if you can mak a funny title, that's even better!
+Here are some Besart-Cerficied tips to make some funny titles (9/10 times I use these):
+* Add a pun in the title, gets 'em every time
+* Make up your own acronyms
+  * Oh you're working on PHP? **OR** are you working on a Pretty Huge Problem?
+* Don't overthink!
+  * If you can't come up with anything funny, that's okay too.
+  Sometimes the very first thought that comes up to you while thinking of a title works just perfectly
+
+Here I have used some very refined technology to recreate what goes on in the inner machinations of a readers mind when seeing a funny title.
+
+![monkey-neuron-activation](images/monkey-see-action.jpg)
