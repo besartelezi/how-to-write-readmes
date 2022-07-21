@@ -3,7 +3,7 @@
 ###### Authenticity of the license in question is still under investigation
 
 After getting a lot of praise for the way I write my READMES, I thought some people might like it if I could give a little insight on the way I write them.
-For that I have made both a presentation, which you can find [here](https://www.youtube.com/watch?v=W8MbyfCrrWQ), and a README, which in case you haven't noticed, you are reading right now!
+For that I have made both a presentation, which you can find [here](https://www.canva.com/design/DAFHEHISkIo/pteD53lGJ5zo_Mb0XjD99Q/view?utm_content=DAFHEHISkIo&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent), and a README, which in case you haven't noticed, you are reading right now!
 I have split up everything in topics to make it more easily understandable.
 
 These are the following topics that I will discuss:
