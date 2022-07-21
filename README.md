@@ -8,21 +8,15 @@ I have split up everything in topics to make it more easily understandable.
 
 These are the following topics that I will discuss:
 * Lesson 1: Why should I give a heck about READMES?
-  * Learning through repetition
-  * Makes coding/programming **a lot** easier
-  * GitHub is the spiciest portfolio there is
-  * A skill that every developer needs
-    * Difference between professional READMES and current READMES
 * Lesson 2: Storytelling, have some fun with it
-  * 
 * Lesson 3: Introductory lesson to Introductions
 * Lesson 4: The First Step
 * Do I need to do some research about the Topic?
   * Example Blackjack
-* 
 * Lesson 5: Significance of To-Do's
 * Lesson 6: Titles
   * Just puns honestly
+  * Acronyms
 * Lesson 7: In the Middle but I can't find Malcolm - Middle Parts of your README
   * What subjects should you write about
   * Some general writing tips
@@ -79,3 +73,25 @@ Because, as a great man once said:
 ###### P.S. I have never watched The Office and I do not intend to ever watch it, love this quote though.
 
 ## Lesson 3: Introductory lesson to Introductions
+Speaking of keeping things short and simple, let's talk about introductions!
+When I create a repository, the very first thing I do is write a short introduction about the current project.
+In there I add what my current goals are (what do I want to learn from this project, why am I creating this project).
+And I add what the project exactly is.
+
+The purpose of an introduction is to explain to the reader what the heck is going on.
+After they read the introduction, they need to understand what the project is and they need to be able to follow along the rest of the README.
+
+## Lesson 4: The (second) First Step
+This step is an optional one, according to the project.
+Because once you're done with writing the intro, it's time do some research on the topic of your project.
+I'd like to explain this step by using an example.
+In the past, I created a blackjack game on Javascript.
+But I did not know the rules or how to play it.
+So before I even made an HTML file, I looked for all the rules blackjack has, and wrote them in my README.
+Then I spent the next 15-20 minutes just playing blackjack online, while keeping all the rules I wrote down in the back of my head.
+
+And I can say with absolute certainty that if I didn't do the research at the very start I would've not been able to finish this assignment in time.
+Having everything written down, as clear as possible, in my own words, made me understand the game 100%.
+Once I know the rules of the game, I also know how to program those rules.
+Like I mentioned earlier, most of the work for a project is done in the planning, and that's done in the README!
+
